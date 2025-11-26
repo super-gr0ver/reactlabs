@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default class Footer extends React.Component {
   render() {
     const { title, text } = this.props
